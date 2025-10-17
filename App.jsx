@@ -24,3 +24,15 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+
+
+import Home from "./component/pages/home.jsx";
+import MovieList from "./component/pages/movieList.jsx";
+import Register from "./component/pages/register.jsx";
+import Navbar from "./component/Navbar.jsx";
+import DashBoard from "./component/DashBoard.jsx";
